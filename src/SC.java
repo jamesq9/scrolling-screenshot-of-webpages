@@ -1,3 +1,11 @@
+/**
+ * A Java Program that takes ScreenShots with Scrolling of an entire web page.
+ *
+ * <p>Bugs: Doesn't work when there is Fixed Transparent Image set in background (which causes no match to occur of the sample image)
+ *          Doesn't work when there is a Fixed Footer which can be fixed by changing the sampling area and removeing fotter for all expect the last image. </p>
+ *
+ * @author James Ballari
+ */
 
 import java.awt.Graphics;
 import java.awt.Rectangle;
@@ -11,10 +19,6 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import javax.imageio.ImageIO;
 
-/**
- *
- * @author jballari
- */
 public class SC {
 
     
