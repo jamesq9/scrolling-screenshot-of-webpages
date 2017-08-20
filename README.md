@@ -17,6 +17,6 @@ in case you need more options
   or
 >java SC help
 
-Works when there is no Fixed Transperent image in the background and when there is no Constant Fotter (which can be fixed in later versions)
+Works when there is no Fixed Transperent image in the background and when there is no Constant Fotter.
 
 
